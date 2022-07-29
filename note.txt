@@ -1,0 +1,1 @@
+SELECT * FROM `product_price` left JOIN category on product_price.category_id=category.id

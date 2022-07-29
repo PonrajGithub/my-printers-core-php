@@ -1,0 +1,2 @@
+[05-May-2021 06:03:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kitecareer/public_html/myprinters/admin/product_management/product_add.php on line 49
+[05-May-2021 06:03:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/kitecareer/public_html/myprinters/admin/product_management/product_add.php on line 49
